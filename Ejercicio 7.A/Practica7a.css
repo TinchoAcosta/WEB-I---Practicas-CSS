@@ -1,0 +1,10 @@
+h1 {
+    color:red;
+    font-family: Arial;
+    font-size: 111px;
+}
+p {
+    color:orange;
+    text-align: justify;
+    line-height: 2;
+}
