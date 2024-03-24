@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://th.bing.com/th/id/OIP.6ucsaYRKDNBUvh1pvlnAnQAAAA?rs=1&pid=ImgDetMain');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img {
+    opacity: 0.5;
+}
