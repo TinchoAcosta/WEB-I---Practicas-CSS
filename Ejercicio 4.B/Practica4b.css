@@ -1,0 +1,23 @@
+#tinto a{
+    color: red;
+}
+#blanco a{
+    color: yellow;
+}
+#tinto a.verde{
+    color: green;
+}
+#tinto a:hover{
+    color: orange;
+    text-decoration: line-through;
+}
+#blanco a:hover{
+    color: brown;
+    text-decoration: line-through;
+}
+#tinto a.verde:hover{
+    color: blue;
+}
+#tinto a:visited,#blanco a:visited{
+    color: purple;
+}
