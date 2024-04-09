@@ -1,0 +1,48 @@
+section {
+    background-color: white;
+    display: flex;
+    padding-bottom: 20px;
+}
+section img {
+    height: 40px;
+    width: 40px;
+}
+article {
+    display: flex;
+    flex-direction: column;  
+    justify-content: space-around; 
+    box-sizing: border-box;
+}
+div.nombreyfecha {
+    display: flex;
+}
+div.nombreyfecha p.nombre {
+    font-weight: bolder;
+    padding-right: 5px;
+    margin: 0%;
+}
+div.nombreyfecha p.tiempo {
+    color: gainsboro;
+    padding-left: 5px;
+    margin: 0%;
+}
+section p.comentario {
+    margin: 0%;
+}
+table tr td.barraDeReaccion img {
+    height: 20px;
+}
+article table tr td {
+    color: rgb(136, 135, 135);
+}
+table tr td{
+    padding-right:15px;
+}
+table tr {
+    display: flex;
+    align-items: start;
+}
+div.verRespuestas p{
+   margin: 0%; 
+   font-weight: bolder;
+}
